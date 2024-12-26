@@ -26,7 +26,7 @@ SOFTWARE.
 #ifndef _RAYUTILS_H
 #define _RAYUTILS_H
 
-#include "../../external/raylib/raylib.h"
+#include "raylib/raylib.h"
 
 
 
